@@ -98,7 +98,6 @@ axios.interceptors.response.use(
                 refreshPromise = null;
 
                 return axios(originalRequest);
-
             } catch (refreshError) {
                 // if refresh fails, redirect to Login or handle as needed
                 useUserStore.getState().logout();
