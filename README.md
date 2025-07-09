@@ -9,7 +9,7 @@ full shopping functionality, user management, Stripe-based payments, and an admi
 
 ## 🔗 Live Demo
 
-👉 Click here to view the live demo: [https://your-live-demo-link.com](https://mern-ecommerce-p5nj.onrender.com/)
+👉 Click here to view the live demo: https://mern-ecommerce-p5nj.onrender.com/
 
 > _Deployed using GitHub Pages /render._
 
